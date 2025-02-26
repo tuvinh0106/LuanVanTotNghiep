@@ -23,16 +23,24 @@ Database: MySQL
 Source cũ gồm 2 phiên bản và 2 cái chức năng tương tự, khác số một số chỗ
 
 *****************************************************
-Hướng dẫn cài đặt
+Hướng dẫn cài đặt.
+
 Thông tin thẻ Atm thanh toán VNPAY (dùng để demo chức năng):
-Ngân hàng: NCB
+
+Ngân hàng: NCB.
+
 Số thẻ: 9704198526191432198
+
 Ngày phát hành: 07/15
+
 Tên chủ thẻ:  NGUYEN VAN A
+
 OTP: 123456
+
 Tài khoản nhân viên (người quản lý):
+
 Email: admin@gmail.com
+
 Mật khẩu: *******
-(Mật khẩu có chữ A in hoa như trên)
 
 Cài đặt phần mềm Xampp hoặc Mysql => Add database. Có thể sử dụng.
